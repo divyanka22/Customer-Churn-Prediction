@@ -83,7 +83,7 @@ Customer_Churn_Prediction/
 
 ### 1. Clone the repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/divyanka22/Customer-Churn-Prediction
 cd Customer_Churn_Prediction
 ```
 
